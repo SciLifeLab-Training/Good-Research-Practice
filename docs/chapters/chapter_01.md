@@ -43,7 +43,7 @@ Upholding GRP is about actively engaging with ethical principles in every aspect
 > **Tip:** Think of GRP as your “ethical toolbox” for research decisions.
 
 
-## 1.4 Your institutions legal & ethical responsibilities
+## 1.3 Your institutions legal & ethical responsibilities
 
 ### The law
 In Sweden, the law requires that your research-performing organization **guarantees** you academic freedom, which also means that part of the responsibility to uphold GRP lies on you, see: 
@@ -62,37 +62,33 @@ While you are expected to conduct your research with integrity, you are not alon
 - Creating **incentives** that reward adherence to GRP. 
 
 
-## 1.5 What you need to succeed 
+## 1.4 What you need to succeed 
 
 To practice GRP effectively as a researcher, develop:
 
-<div class="grp-grid">
-
 <div class="grp-card">
-**Understanding GRP Principles**  
-Develop a solid grasp of the ethical standards, legal frameworks, and guidelines that shape responsible research.
+  <h4>Understanding GRP Principles</h4>
+  <p>Develop a solid grasp of the ethical standards, legal frameworks, and guidelines that shape responsible research.</p>
 </div>
 
 <div class="grp-card">
-**Applying Ethical Guidelines**  
-Translate ethical principles into everyday research practice, from experimental design to data management.
+  <h4>Applying Ethical Guidelines</h4>
+  <p>Translate ethical principles into everyday research practice, from experimental design to data management.</p>
 </div>
 
 <div class="grp-card">
-**Professional Judgment & Habits**  
-Build habits that promote integrity, transparency, and reproducibility in your work.
+  <h4>Professional Judgment</h4>
+  <p>Maintain good research habits and exercise sound judgment at each stage of a project.</p>
 </div>
 
 <div class="grp-card">
-**Resisting Pressure**  
-Maintain ethical standards even when facing institutional, peer, or competitive pressures.
+  <h4>Resisting Pressure</h4>
+  <p>Recognize and resist pressures or conflicts that could compromise research integrity.</p>
 </div>
 
 <div class="grp-card">
-**Navigating Ethical Dilemmas**  
-Gain confidence to make informed decisions when ethical or legal challenges arise in research.
-</div>
-
+  <h4>Navigating Ethical Dilemmas</h4>
+  <p>Develop the skills and confidence to resolve complex ethical issues responsibly.</p>
 </div>
 
 
