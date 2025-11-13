@@ -60,14 +60,15 @@
   font-size: 14px;
 }
 
-/* Hide the site name in the top bar */
+/* Hide the site name text but keep its space */
 .md-header__title {
-  display: none !important;
+  color: transparent !important;    /* make text invisible */
+  pointer-events: none;             /* avoid interacting with it */
 }
 
-/* Optional: adjust how much space is kept (if needed) */
+/* Optionally adjust spacing if needed */
 .md-header__title {
-  min-width: 250px; /* tweak this value to control spacing */
+  min-width: 250px; /* tweak this value to keep spacing */
 }
 
 
