@@ -68,7 +68,7 @@
 }
 
 .md-typeset .admonition.note {
-    background-color: #f9f9f9; /* soft background */
+    background-color: #e5e5e5; /* soft background */
     border: 1px solid #000 !important;/* black border */
     border-left: 4px solid #A7C947 !important; /* accent strip on left */
     padding: 15px 20px;
