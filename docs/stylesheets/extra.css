@@ -60,14 +60,13 @@
   font-size: 14px;
 }
 
-/* Keep space for the title but hide text */
+/* Hide the site name text but keep space */
 .md-header__title {
-  color: transparent !important;   /* hide text */
-  pointer-events: none;            /* don't interact */
-  min-width: 250px;                /* desired space */
-  flex-shrink: 0;                  /* prevent it from shrinking */
-  text-align: center;              /* optional: center if needed */
+  visibility: hidden;   /* hide text but element still occupies space */
+  width: 250px;         /* desired empty space */
+  flex-shrink: 0;       /* prevent shrinking */
 }
+
 
 
 
