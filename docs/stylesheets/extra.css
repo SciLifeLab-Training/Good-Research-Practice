@@ -96,7 +96,15 @@
     margin-bottom: 0.5em;
 }
 
+/* Container to hold all GRP cards side by side */
+.grp-cards-container {
+  display: flex;
+  flex-wrap: wrap;        /* wrap to next line if screen is narrow */
+  gap: 15px;              /* spacing between cards */
+  margin-bottom: 20px;
+
 /* Grid layout for GRP competency cards */
+}
 .grp-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -112,6 +120,20 @@
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   font-size: 16px;
+  line-height: 1.5;
+}
+/* Card titles */
+.grp-card h4 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 18px;
+  color: #045C64;
+}
+
+/* Card text */
+.grp-card p {
+  margin: 0;
+  font-size: 14px;
   line-height: 1.5;
 }
 
