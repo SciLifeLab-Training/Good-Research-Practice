@@ -14,34 +14,16 @@
     text-align: center;
 }
 
-/* Author card text size */
 .authors .nt-card-text {
-    font-size: 20px;
+    font-size:20px;
 }
 
-/* Author card width and left alignment */
-.authors .md-card-container {
-    justify-content: flex-start;  /* align cards to the left */
-}
-
-.authors .nt-card {
-    width: 250px;      /* fixed width */
-    margin: 10px;      /* optional spacing */
-}
-
-/* Contributor card image size */
 .contributors .nt-card .nt-card-image img {
     height: 60px;
 }
 
 .contributors .nt-card .nt-card-image {
     min-height: 60px;
-}
-
-/* Optional: consistent width for contributors */
-.contributors .nt-card {
-    width: 180px;
-    margin: 10px;
 }
 
 /* This makes the normal admonition blocks have the same font size as normal text */
