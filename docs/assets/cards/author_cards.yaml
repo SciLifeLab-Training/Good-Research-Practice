@@ -1,8 +1,8 @@
-- title: Zeus
+- title: Ineke Luijten
   content: |
-    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
-    Lorem ipsum dolor sit amet.
-  image: ./assets/images/cards/001-zeus.png
+     [:custom-orcid:](https://orcid.org/0000-0001-5768-275X) [:simple-github:](https://github.com/InekeL) <a href="https://www.linkedin.com/in/inekeluijten/"><img src="./assets/images/Linkedin.png" alt="LinkedIn" width="17" height="17"/></a><br>
+    SciLifeLab Training Hub
+  image: ./assets/images/cards/InekeLuijten.png
 
 - title: Athena
   content: |
