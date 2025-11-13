@@ -9,7 +9,7 @@ This module introduces GRP, its legal and ethical basis in Sweden, and how it sh
 ## 1.2 Legal & Ethical Foundations
 In Sweden, following GRP is not just an ethical obligation, it is a legal requirement. As a researcher, you **must** comply with national legislation, including:  
 
-!!! note "Legal & Ethical References"
+!!! note ""
 
     ### Laws
     - [Law 2019:504 — Responsibility for Good Research Practice](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/)
