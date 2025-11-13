@@ -1,7 +1,7 @@
 site_name: Good Research Practice
 nav:
     - About: index.md
-    - Course Content:
+    - Content:
       - "1. Introduction to GRP": chapters/chapter_01.md
       - "2. GRP in acquiring funding": chapters/chapter_02.md
       - "3. GRP in experimental research": chapters/chapter_03.md
