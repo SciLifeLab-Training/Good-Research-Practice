@@ -9,18 +9,19 @@ This module introduces GRP, its legal and ethical basis in Sweden, and how it sh
 ## 1.2 Legal & Ethical Foundations
 In Sweden, following GRP is not just an ethical obligation, it is a legal requirement. As a researcher, you **must** comply with national legislation, including:  
 
-<div class="reference-box">
-### **Laws**
-- [Law 2019:504 — Responsibility for Good Research Practice](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/)
+!!! note "Legal & Ethical References"
 
-### **Guidelines**
-- [Good Research Practice ('God Forskningssed')](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html)  
-- [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)
+    ### Laws
+    - [Law 2019:504 — Responsibility for Good Research Practice](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/)
 
-### **Broader Ethics**
-- [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki/)  
-- [Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml)
-</div>
+    ### Guidelines
+    - [Good Research Practice ('God Forskningssed')](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html)
+    - [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)
+
+    ### Broader Ethics
+    - [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki/)
+    - [Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml)
+
 
 Your institution may have its own code of conduct, such as the [SciLifeLab Code of Conduct](https://www.scilifelab.se/code-of-conduct/).
 
