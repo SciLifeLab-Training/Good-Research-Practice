@@ -44,13 +44,13 @@
     
 ## Authors
 
-[cards class_name="authors" cols="1"(./docs/assets/cards/author_cards.yaml)]
+[cards class_name="authors" cols="3"(./docs/assets/cards/author_cards.yaml)]
 
 
 
 #### Contributors
 
-[cards class_name="contributors" cols="3"(./docs/assets/cards/contributor_cards.yaml)]
+[cards class_name="contributors" cols="6"(./docs/assets/cards/contributor_cards.yaml)]
 
 
 ---
