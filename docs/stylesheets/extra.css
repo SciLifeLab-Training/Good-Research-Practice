@@ -67,23 +67,28 @@
   flex-shrink: 0;       /* prevent shrinking */
 }
 
-.reference-box {
-    background-color: #f9f9f9; /* light grey background */
-    border-left: 4px solid #A7C947; /* accent color on the side */
-    padding: 12px 16px;
-    margin: 12px 0;
+.md-typeset .admonition.note {
+    background-color: #f5f5f5; /* light gray background */
+    border-left: 4px solid #A7C947; /* colored accent */
+    padding: 15px 20px;
+    border-radius: 8px;
     font-size: 0.9em; /* slightly smaller font */
     line-height: 1.5;
-    border-radius: 5px;
+    margin-bottom: 20px;
 }
-.reference-box h3 {
-    margin-top: 10px;
-    margin-bottom: 4px;
-    font-size: 1em; /* smaller than normal heading */
+
+.md-typeset .admonition.note h4,
+.md-typeset .admonition.note h3 {
+    margin-top: 0.5em;
+    margin-bottom: 0.3em;
+    font-weight: 600;
 }
-.reference-box li {
-    margin-bottom: 4px;
+
+.md-typeset .admonition.note ul {
+    margin-top: 0;
+    margin-bottom: 0.5em;
 }
+
 
 
 
