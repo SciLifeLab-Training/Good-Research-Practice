@@ -25,7 +25,7 @@
 }
 
 .authors .nt-card {
-    width: 300px;      /* fixed width */
+    width: 250px;      /* fixed width */
     margin: 10px;      /* optional spacing */
 }
 
@@ -40,7 +40,7 @@
 
 /* Optional: consistent width for contributors */
 .contributors .nt-card {
-    width: 300px;
+    width: 180px;
     margin: 10px;
 }
 
