@@ -10,7 +10,7 @@ nav:
 theme:
   name: material
   logo: assets/images/SciLifeLab_Logotype_NEG.png
-  favicon: assets/images/elixir_favicon.ico
+  favicon: assets/images/SciLifeLab_symbol_green.png
   custom_dir: overrides
   features:
     - navigation.top
