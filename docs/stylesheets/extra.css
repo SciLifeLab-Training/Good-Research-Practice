@@ -68,17 +68,24 @@
 }
 
 .md-typeset .admonition.note {
-    background-color: #f5f5f5; /* light gray background */
-    border-left: 4px solid #A7C947; /* colored accent */
+    background-color: #f9f9f9; /* soft background */
+    border: 1px solid #000; /* black border */
+    border-left: 4px solid #000; /* accent strip on left */
     padding: 15px 20px;
     border-radius: 8px;
-    font-size: 0.9em; /* slightly smaller font */
+    font-size: 0.9em;
     line-height: 1.5;
     margin-bottom: 20px;
 }
 
-.md-typeset .admonition.note h4,
-.md-typeset .admonition.note h3 {
+/* Remove the blue header bar and padding from the hidden title */
+.md-typeset .admonition.note > .admonition-title {
+    display: none;
+}
+
+/* Style headings and lists inside the box */
+.md-typeset .admonition.note h3,
+.md-typeset .admonition.note h4 {
     margin-top: 0.5em;
     margin-bottom: 0.3em;
     font-weight: 600;
@@ -88,6 +95,7 @@
     margin-top: 0;
     margin-bottom: 0.5em;
 }
+
 
 
 
