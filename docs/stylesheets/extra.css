@@ -65,3 +65,9 @@
   display: none !important;
 }
 
+/* Optional: adjust how much space is kept (if needed) */
+.md-header__title {
+  min-width: 250px; /* tweak this value to control spacing */
+}
+
+
