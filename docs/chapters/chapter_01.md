@@ -66,29 +66,33 @@ While you are expected to conduct your research with integrity, you are not alon
 
 To practice GRP effectively as a researcher, develop:
 
-<div class="grp-card">
-  <h4>Understanding GRP Principles</h4>
-  <p>Develop a solid grasp of the ethical standards, legal frameworks, and guidelines that shape responsible research.</p>
-</div>
+<div class="grp-cards-container">
 
-<div class="grp-card">
-  <h4>Applying Ethical Guidelines</h4>
-  <p>Translate ethical principles into everyday research practice, from experimental design to data management.</p>
-</div>
+  <div class="grp-card">
+    <h4>Understanding GRP Principles</h4>
+    <p>Develop a solid grasp of the ethical standards, legal frameworks, and guidelines that shape responsible research.</p>
+  </div>
 
-<div class="grp-card">
-  <h4>Professional Judgment</h4>
-  <p>Maintain good research habits and exercise sound judgment at each stage of a project.</p>
-</div>
+  <div class="grp-card">
+    <h4>Applying Ethical Guidelines</h4>
+    <p>Translate ethical principles into everyday research practice, from experimental design to data management.</p>
+  </div>
 
-<div class="grp-card">
-  <h4>Resisting Pressure</h4>
-  <p>Recognize and resist pressures or conflicts that could compromise research integrity.</p>
-</div>
+  <div class="grp-card">
+    <h4>Professional Judgment</h4>
+    <p>Maintain good research habits and exercise sound judgment at each stage of a project.</p>
+  </div>
 
-<div class="grp-card">
-  <h4>Navigating Ethical Dilemmas</h4>
-  <p>Develop the skills and confidence to resolve complex ethical issues responsibly.</p>
+  <div class="grp-card">
+    <h4>Resisting Pressure</h4>
+    <p>Recognize and resist pressures or conflicts that could compromise research integrity.</p>
+  </div>
+
+  <div class="grp-card">
+    <h4>Navigating Ethical Dilemmas</h4>
+    <p>Develop the skills and confidence to resolve complex ethical issues responsibly.</p>
+  </div>
+
 </div>
 
 
