@@ -1,4 +1,4 @@
-# Good Research Practice
+# **Good Research Practice**
 
 [add-bioschemas file='_data/metadata.yaml']
 
@@ -48,7 +48,7 @@
 
 
 
-#### Contributors
+## Contributors
 
 [cards class_name="contributors" cols="3" (./docs/assets/cards/contributor_cards.yaml)]
 
