@@ -1,14 +1,15 @@
-<span style="color: #A7C947;">**Reading time: 7 min  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reflection question #: 1, 2**</span>  
 
+## 1.1 Definition
 Good Research Practice (GRP) is the **ethical backbone of high-quality research**. It ensures that research is reliable, credible, and ethically sound [(VR, 2024)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html).  
 
 > **GRP = “The collective ethical criteria on how good research should be conducted.”**  
 
 This module introduces GRP, its legal and ethical basis in Sweden, and how it shapes research behavior and institutional responsibility.
 
-## Legal & Ethical Foundations
+## 1.2 Legal & Ethical Foundations
 In Sweden, following GRP is not just an ethical obligation, it is a legal requirement. As a researcher, you **must** comply with national legislation, including:  
 
+<div class="reference-box">
 ### **Laws**
 - [Law 2019:504 — Responsibility for Good Research Practice](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/)
 
@@ -18,11 +19,12 @@ In Sweden, following GRP is not just an ethical obligation, it is a legal requir
 
 ### **Broader Ethics**
 - [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki/)  
-- [Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml)  
+- [Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml)
+</div>
 
-> your institution may have its own code of conduct, such as the [SciLifeLab Code of Conduct](https://www.scilifelab.se/code-of-conduct/).
+Your institution may have its own code of conduct, such as the [SciLifeLab Code of Conduct](https://www.scilifelab.se/code-of-conduct/).
 
-## 1.2 GRP in Action
+## 1.3 GRP in Action
 Upholding GRP is not just about avoiding misconduct—it is about actively engaging with ethical principles in every aspect of your research. This means:
 
 - Being aware of and following all relevant regulations that apply to your field.
