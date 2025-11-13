@@ -2,9 +2,14 @@ site_name: Good Research Practice
 nav:
     - About: index.md
     - Course Content:
-      - "1. title of first chapter": chapters/chapter_01.md
-      - "2. title of second chapter": chapters/chapter_02.md
-      - "References": chapters/references.md
+      - "1. Introduction to GRP": chapters/chapter_01.md
+      - "2. GRP in acquiring funding": chapters/chapter_02.md
+      - "3. GRP in experimental research": chapters/chapter_03.md
+      - "4. GRP in (inter)national collaboration": chapters/chapter_04.md
+      - "5. GRP in publishing and reviewing": chapters/chapter_05.md
+      - "6. Scientific misconduct": chapters/chapter_06.md
+      - "7. GRP and Open Science": chapters/chapter_07.md
+      - "References": references.md
     - "Follow up training": follow_up_training.md
 
 theme:
