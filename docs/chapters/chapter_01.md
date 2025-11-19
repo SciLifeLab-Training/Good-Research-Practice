@@ -16,7 +16,7 @@ In practice this means that GRP includes a set of ethical standards and professi
     <img src="/docs/assets/images/VR_GoodResearchPractice.png" alt="Image 1" style="width:85%;">
   </a>
   <a href="https://allea.org/code-of-conduct/" target="_blank">
-    <img src="assets/images/ALLEA_CodeOfConduct.png" alt="Image 2" style="width:85%;">
+    <img src="/docs/assets/images/ALLEA_CodeOfConduct.png" alt="Image 2" style="width:85%;">
   </a>
 
 </div>
@@ -25,7 +25,7 @@ In practice this means that GRP includes a set of ethical standards and professi
 ## 1.2 Your legal & ethical responsibilities
 
 <h3>
-  <img src="assets/images/icon_law.png" alt="law" style="width:30px; height:30px; vertical-align:middle;">
+  <img src="/docs/assets/images/icon_law.png" alt="law" style="width:30px; height:30px; vertical-align:middle;">
    The law
 </h3>
 
@@ -49,7 +49,7 @@ Beyond these formal legislations, your institution may also have its own code of
 
 
 <h3>
-  <img src="assets/images/icon_scientist.svg" alt="law" style="width:40px; height:40px; vertical-align:middle;">
+  <img src="/docs/assets/images/icon_scientist.svg" alt="law" style="width:40px; height:40px; vertical-align:middle;">
    What this means for you in practice
 </h3>
 
@@ -66,7 +66,7 @@ Upholding GRP is about actively engaging with ethical principles in every aspect
 ## 1.3 Your institutions legal & ethical responsibilities
 
 <h3>
-  <img src="assets/images/icon_law.png" alt="law" style="width:30px; height:30px; vertical-align:middle;">
+  <img src="/docs/assets/images/icon_law.png" alt="law" style="width:30px; height:30px; vertical-align:middle;">
    The law
 </h3>
 In Sweden, the law requires that your research-performing organization **guarantees** you academic freedom, which also means that a big part of the responsibility to uphold GRP lies directly on you, see: 
@@ -77,7 +77,7 @@ In Sweden, the law requires that your research-performing organization **guarant
     - [Section 4 of Law 2019:504](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/)
 
 <h3>
-  <img src="assets/images/icon_scientist.svg" alt="law" style="width:40px; height:40px; vertical-align:middle;">
+  <img src="/docs/assets/images/icon_scientist.svg" alt="law" style="width:40px; height:40px; vertical-align:middle;">
    What this means for you in practice
 </h3>
 While you are expected to conduct your research with integrity, you are not alone in ensuring compliance with GRP. Your institution plays a crucial role in maintaining an ethical and transparent research environment by ([SUHF, 2023](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf)): 
