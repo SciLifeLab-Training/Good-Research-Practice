@@ -12,7 +12,7 @@ In practice this means that GRP includes a set of ethical standards and professi
 
 <div style="display: flex; gap: 10px;">
   
-  [![VR Good Practice](assets/images/VR_GoodResearchPractice.png){ width="300" }](https://www.vr.se/english/mandates/ethics/good-research-practice---new-edition.html)
+  [![VR Good Practice](assets/images/VRGoodResearchPractice.png){ width="300" }](https://www.vr.se/english/mandates/ethics/good-research-practice---new-edition.html)
   <a href="https://allea.org/code-of-conduct/" target="_blank">
     <img src="/docs/assets/images/ALLEA_CodeOfConduct.png" alt="Image 2" style="width:85%;">
   </a>
