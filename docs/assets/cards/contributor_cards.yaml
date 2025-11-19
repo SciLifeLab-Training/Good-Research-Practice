@@ -2,16 +2,16 @@
   content: |
     [:custom-orcid:](https://orcid.org/0000-0002-6271-4530) [:simple-github:](https://github.com/kristen-schroeder) <a href="https://www.linkedin.com/in/kristen-schroeder-7b418470/"><img src="./assets/images/Linkedin.png" alt="LinkedIn" width="17" height="17"/></a><br>
     SciLifeLab
-  image: ./assets/images/cards/021-artemis.png
+  image: ./assets/images/cards/KristenSchroeder.jpeg
 
 - title: Yvonne Kallberg
   content: |
     [:custom-orcid:](https://orcid.org/0000-0002-3977-9600) [:simple-github:](https://github.com/yvonnekallberg) <a href="https://www.linkedin.com/in/yvonne-kallberg-53969417/"><img src="./assets/images/Linkedin.png" alt="LinkedIn" width="17" height="17"/></a><br>
     SciLifeLab
-  image: ./assets/images/cards/006-ares.png
+  image: ./assets/images/cards/YvonneKallberg.jpg
 
 - title: Markus Englund
   content: |
     [:custom-orcid:](https://orcid.org/0000-0003-1688-7112) [:simple-github:](https://github.com/jmenglund) <a href="https://www.linkedin.com/in/markusenglund/"><img src="./assets/images/Linkedin.png" alt="LinkedIn" width="17" height="17"/></a><br>
     NBIS
-  image: ./assets/images/cards/027-nike.png
+  image: ./assets/images/cards/MarkusEnglund.jpg

@@ -39,7 +39,7 @@ plugins:
 
   
 # Footer
-copyright: By the ELIXIR Training Platform
+copyright: By SciLifeLab Training Hub
 
 markdown_extensions:
   - abbr

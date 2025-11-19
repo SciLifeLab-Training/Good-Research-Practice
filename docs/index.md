@@ -7,7 +7,7 @@
 !!! overview ""
     :fontawesome-regular-bookmark: **Description**  
     This lesson introduces the core of Good Research Practice (GRP) in Sweden, based on [Good Research Practice](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html) ('God forskningssed', VR, 2024) and the [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf) (ALLEA, 2023). It’s a practical starting point for understanding the principles that make research trustworthy.
-    The lesson emphasizes how responsible research practices and transparency, as promoted in Open Science, go hand in hand. Good research practices such as proper documentation, honest reporting, and ethical collaboration support reproducibility, sharing, and trust in science.
+    The lesson emphasizes how responsible research practices and transparency, as promoted in Open Science, go hand in hand. GRPs such as proper documentation, honest reporting, and ethical collaboration support reproducibility, sharing, and trust in science.
     
     </br>
     
@@ -53,13 +53,21 @@
 [cards class_name="contributors" cols="4" (./docs/assets/cards/contributor_cards.yaml)]
 
 
----
+
 ## Citing this lesson
 
 Please cite as:
 
-  1. Enter your citation here.
-  2. Geert van Geest, Elin Kronander, Jose Alejandro Romero Herrera, Nadja Žlender, & Alexia Cardona. (2023). The ELIXIR Training Lesson Template - Developing Training Together (v1.0.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.7913092. 
+  1. Ineke Luijten (2025) Good Research Practice. 
+
+
+## Development acknowledgements
+
+This lesson draws upon material compiled from the sources cited throughout. An initial synthesis of the content was produced with the assistance of ChatGPT (OpenAI, 2025) to identify key themes and insights. This synthesis was subsequently reviewed and rewritten by Ineke Luijten, with additional refinements contributed by Kristen Schroeder, Yvonne Kallberg, and Markus Englund.
+
+The course website was developed by Ineke Luijten following the ELIXIR Training Lesson Template:
+
+Geert van Geest, Elin Kronander, Jose Alejandro Romero Herrera, Nadja Žlender & Alexia Cardona (2023). The ELIXIR Training Lesson Template – Developing Training Together (v1.0.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.7913092.
 
 
 
