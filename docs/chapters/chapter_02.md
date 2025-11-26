@@ -79,11 +79,11 @@ As a beginning researcher, these are the concrete actions you need to take when 
 ## 2.2 Understanding different funders' expectations
 While GRP principles are universal, each funder has its own specific emphasis. Your proposal must follow the structure, format, and requirements of the funding body you apply to. To help you integrate GRP into your funding proposal, consult the following guidance documents:
 
-<img src="../../assets/images/VRlogo.svg" alt="law" style="width:70px; vertical-align:middle;"> [VR 'Conducting ethical research'](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/conducting-ethical-research.html)
+<img src="../../assets/images/VRlogo.svg" alt="law" style="width:140px; vertical-align:middle;"> [VR 'Conducting ethical research'](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/conducting-ethical-research.html)
 
-<img src="../../assets/images/EUlogo.svg" alt="law" style="width:70px; vertical-align:middle;"> [Horizon Europe 'Ethics self-assessment guide'](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
+<img src="../../assets/images/EUlogo.svg" alt="law" style="width:140px; vertical-align:middle;"> [Horizon Europe 'Ethics self-assessment guide'](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
 
-<img src="../../assets/images/ERClogo.png" alt="law" style="width:70px; vertical-align:middle;"> [ERC 'Ethics guidance'](https://erc.europa.eu/manage-your-project/ethics-guidance)
+<img src="../../assets/images/ERClogo.png" alt="law" style="width:140px; vertical-align:middle;"> [ERC 'Ethics guidance'](https://erc.europa.eu/manage-your-project/ethics-guidance)
   
 Always read the funder’s instructions carefully and follow their structure exactly! Failing to meet formal requirements can weaken an otherwise strong proposal.
 
